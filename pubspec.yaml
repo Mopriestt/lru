@@ -1,0 +1,11 @@
+name: lru
+description: "Dart in memory key-value storage with capacity."
+version: 0.0.1
+homepage: https://github.com/Mopriestt/lru
+
+environment:
+  sdk: '>=2.12.0 <4.0.0'
+
+dev_dependencies:
+  test: ^1.24.9
+  collection: ^1.18.0
